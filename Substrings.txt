@@ -1,0 +1,5 @@
+phrase = "This is a pretty cool phrase"
+
+arr = phrase.split
+
+puts arr
